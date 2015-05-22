@@ -1,17 +1,4 @@
-/*
-Assignment: 3
-Subject: IPC144L
-Student Name: Daniel Brennan
-Student Number: 020 194 114
-Instructor Name: Danny Abesdris
-Due Date: November 28, 2014
-Date Submitted: November 19, 2014
-Purpose: Create complete and incomplete Sudoku Board.
 
-"I declare that the attached assignment is wholly my own work in accordance with Seneca Academic Policy. No part of this assignment has been copied manually or electronically from any other source (including web sites) or distributed to other students."
-
-Name: Daniel Brennan Student ID: 020 194 114
-*/
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
